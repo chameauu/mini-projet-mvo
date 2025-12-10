@@ -36,7 +36,7 @@ This project contains implementations of the following optimization algorithms:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/chameauu/mini-projet-mvo.git
 cd mini-projet-mvo
 ```
 
